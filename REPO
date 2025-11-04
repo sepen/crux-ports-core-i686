@@ -3,6 +3,7 @@ d:libgmp
 d:pkgutils
 d:openssl
 d:python3
+d:libnsl
 d:gcc
 d:filesystem
 d:binutils
@@ -16,6 +17,7 @@ f:ac044945ebaa0a1a09e6629759dfea96:pkgutils/pkgmk.conf
 f:98f68ddeeaf058029e59be69abf1c0b7:openssl/Pkgfile
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
 f:deb6cb38140a11a0e11cfe4399609863:python3/Pkgfile
+f:b06f4bdedac5a07dfb5c02016c622ee6:libnsl/Pkgfile
 f:abaa4f4983804c3f96d58eee7e6ce93b:gcc/Pkgfile
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
