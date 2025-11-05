@@ -4,6 +4,7 @@ d:pkgutils
 d:openssl
 d:ncurses
 d:python3
+d:kmod
 d:libnsl
 d:gcc
 d:filesystem
@@ -19,8 +20,9 @@ f:98f68ddeeaf058029e59be69abf1c0b7:openssl/Pkgfile
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
 f:d2606b8c8a9e9a2e696d4833cb84bf86:ncurses/Pkgfile
 f:deb6cb38140a11a0e11cfe4399609863:python3/Pkgfile
+f:7b9f1fd4a4aac70a938f10d5eb90c73f:kmod/Pkgfile
 f:b06f4bdedac5a07dfb5c02016c622ee6:libnsl/Pkgfile
-f:abaa4f4983804c3f96d58eee7e6ce93b:gcc/Pkgfile
+f:12768ff22378d76132cb57c20e3c3497:gcc/Pkgfile
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
 f:37173a681c2cd6621c436639de5f3f73:gcc/README
 f:d41d8cd98f00b204e9800998ecf8427e:filesystem/motd
