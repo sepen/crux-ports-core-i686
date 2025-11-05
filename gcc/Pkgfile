@@ -28,13 +28,14 @@ build() {
   cd build
 
   $SRC/$name-$version/configure \
-    --build=i686-unknown-linux-gnueabihf \
+    --build=i686-unknown-linux-gnu \
     --prefix=/usr \
     --libexecdir=/usr/lib \
     --enable-threads=posix \
     --with-build-config=bootstrap-lto \
     --with-linker-hash-style=gnu \
     --with-system-zlib \
+    --with-tune=generic \
     --enable-languages=c,c++,lto \
     --enable-stage1-languages=c,lto \
     --enable-link-serialization=1 \
@@ -45,9 +46,6 @@ build() {
     --enable-lto \
     --disable-multilib \
     --enable-plugin \
-    --with-mode=arm \
-    --with-abi=aapcs-linux \
-    --with-float=hard \
     --enable-default-pie \
     --enable-default-ssp \
     --enable-host-pie \
