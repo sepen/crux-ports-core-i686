@@ -3,6 +3,6 @@
 #
 
 ROOT_DIR=/usr/ports/core-i686
-URL=https://raw.githubusercontent.com/sepen/crux-ports-core-i686/main/
+URL=https://raw.githubusercontent.com/sepen/crux-ports-core-i686/3.8/
 
 # End of file

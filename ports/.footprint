@@ -6,8 +6,10 @@ drwxr-xr-x	root/root	etc/ports/
 -rw-r--r--	root/root	etc/ports/core.pub
 -rw-r--r--	root/root	etc/ports/core.rsync
 drwxr-xr-x	root/root	etc/ports/drivers/
+-rw-r--r--	root/root	etc/ports/opt-i686.httpup
 -rw-r--r--	root/root	etc/ports/opt.pub
 -rw-r--r--	root/root	etc/ports/opt.rsync
+-rw-r--r--	root/root	etc/ports/xorg-i686.httpup
 -rw-r--r--	root/root	etc/ports/xorg.pub
 -rw-r--r--	root/root	etc/ports/xorg.rsync
 drwxr-xr-x	root/root	usr/
