@@ -5,6 +5,7 @@ d:prt-get
 d:openssl
 d:ncurses
 d:python3
+d:kmod
 d:ports
 d:gcc
 d:filesystem
@@ -38,6 +39,7 @@ f:5b94d070cbd4025e4f70cc14fcc512c9:ncurses/.footprint
 f:deb6cb38140a11a0e11cfe4399609863:python3/Pkgfile
 f:621056b560d2243b9639b033f2d5d239:python3/.md5sum
 f:f4174e6d32d37fd4a2d6fefd3a26ae9d:python3/.footprint
+f:7b9f1fd4a4aac70a938f10d5eb90c73f:kmod/Pkgfile
 f:939e6f38e938a2ba615e76f40b504c79:ports/xorg.rsync
 f:69927e5d0ae5dc3455faeaac916c4db2:ports/xorg.pub
 f:f8a7c891ca9209ce763aac92169d470a:ports/Pkgfile
