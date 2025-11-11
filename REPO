@@ -23,9 +23,9 @@ f:449c4dca7ff4b2261c17adfde577cd64:pkgutils/.md5sum
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:ac044945ebaa0a1a09e6629759dfea96:pkgutils/pkgmk.conf
 f:77f47c1a65ea88a6dc9ddcb3478befaf:prt-get/Pkgfile
-f:0fcf8bc61883cd4b171d6e6ad1cf0255:prt-get/.md5sum
+f:6873f7262f79f8c2b23361b6a554f3bc:prt-get/.md5sum
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
-f:9df3dc475c53cedbf214f7c98c0e76cf:prt-get/prt-get.conf
+f:fd6406f7eb67b38335b3db2d50bc9e1d:prt-get/prt-get.conf
 f:7f2f6d60fe2d850c6e240d89e7b03c18:prt-get/README
 f:ac750b56369121ca6aad64dd4c03671b:prt-get/prt-get.aliases
 f:98f68ddeeaf058029e59be69abf1c0b7:openssl/Pkgfile
@@ -40,9 +40,9 @@ f:621056b560d2243b9639b033f2d5d239:python3/.md5sum
 f:f4174e6d32d37fd4a2d6fefd3a26ae9d:python3/.footprint
 f:939e6f38e938a2ba615e76f40b504c79:ports/xorg.rsync
 f:69927e5d0ae5dc3455faeaac916c4db2:ports/xorg.pub
-f:aa11801109b0573ddac7a1175b8689e7:ports/Pkgfile
-f:aacf59b34c0e0c676efae4397c370980:ports/.md5sum
-f:c7e930de955168749eb93123f3c1b996:ports/.footprint
+f:f8a7c891ca9209ce763aac92169d470a:ports/Pkgfile
+f:e372165b11e4100af215948de158728b:ports/.md5sum
+f:7b454886730fe0d15c15bca373f42d7b:ports/.footprint
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
 f:9a7ec7bdf5155fbedb02b35e50420cfa:ports/core.rsync
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
