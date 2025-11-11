@@ -1,0 +1,8 @@
+#
+# /etc/ports/core-i686.httpup: Unofficial core ports for CRUX i686
+#
+
+ROOT_DIR=/usr/ports/core-i686
+URL=https://raw.githubusercontent.com/sepen/crux-ports-core-i686/main/
+
+# End of file

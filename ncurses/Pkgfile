@@ -1,7 +1,7 @@
 # Description: A System V Release 4.0 curses emulation library
 # URL: https://invisible-island.net/ncurses/announce.html
 # Maintainer: CRUX System Team, core-ports at crux dot nu
-# Arch Maintainer: Jose Beneyto, sepen at crux-arm dot nu
+# Arch Maintainer: Jose Beneyto, sepen at crux-arm dot nu
 # Depends on:
 
 name=ncurses
