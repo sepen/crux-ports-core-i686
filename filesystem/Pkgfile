@@ -83,7 +83,7 @@ NAME=CRUX-i686
 VERSION_ID="$version"
 ID=crux-i686
 PRETTY_NAME="CRUX-i686"
-HOME_URL="https://github.com/sepen/crux-ports-core-i686/"
-BUG_REPORT_URL="https://github.com/sepen/crux-ports-core-i686/issues"
+HOME_URL="https://github.com/sepen/crux-i686/"
+BUG_REPORT_URL="https://github.com/sepen/crux-i686/issues"
 EOF
 }
