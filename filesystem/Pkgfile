@@ -2,6 +2,7 @@
 # URL: https://crux.nu
 # Maintainer: CRUX System Team, core-ports at crux dot nu
 # Arch Maintainer: Jose Beneyto, sepen at crux-arm dot nu
+# Depends on:
 
 name=filesystem
 version=3.8
@@ -70,7 +71,7 @@ build() {
   cat > $PKG/usr/bin/crux << EOF
 #!/bin/sh
 
-echo "CRUX-ARM version $version"
+echo "CRUX-i686 $version"
 
 # End of file
 EOF
@@ -82,7 +83,7 @@ NAME=CRUX-i686
 VERSION_ID="$version"
 ID=crux-i686
 PRETTY_NAME="CRUX-i686"
-HOME_URL="https://github.com/sepen/crux-ports-core-i686/"
-BUG_REPORT_URL="https://github.com/sepen/crux-ports-core-i686/issues"
+HOME_URL="https://github.com/sepen/crux-i686/"
+BUG_REPORT_URL="https://github.com/sepen/crux-i686/issues"
 EOF
 }

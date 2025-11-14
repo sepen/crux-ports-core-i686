@@ -18,7 +18,6 @@ source=(https://ftp.gnu.org/gnu/glibc/glibc-$version.tar.xz \
 
 build() {
   # install kernel headers
-  make -C $SRC/linux-$_kernel_version mrproper
   make -C $SRC/linux-$_kernel_version INSTALL_HDR_PATH=$PKG/usr headers_install
   chown root:root $PKG/usr
 
