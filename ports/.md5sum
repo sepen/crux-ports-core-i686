@@ -1,0 +1,12 @@
+804bb419e539a70ad80e4c03df3c3411  contrib.pub
+ffcfbdbd1979f51825fa796a6296d1ab  contrib.rsync.inactive
+431cc66bfb029812ac7d996cb27d5fd7  core-i686.httpup
+b8dd0aad383810cad920d6548cd1cb56  core.pub
+9a7ec7bdf5155fbedb02b35e50420cfa  core.rsync
+26ed78f54ddb04e86527fc0a82345726  opt-i686.httpup
+0d1f1fde50a9bd743d9cac6b235f038c  opt.pub
+92891482d508900cd6208bdad41f549d  opt.rsync
+902e3ddb9b4930975c7edb5c3c749c8c  ports-1.6.tar.gz
+5d914f34421175d1f397b4046ed6dde7  xorg-i686.httpup
+69927e5d0ae5dc3455faeaac916c4db2  xorg.pub
+939e6f38e938a2ba615e76f40b504c79  xorg.rsync
