@@ -63,10 +63,10 @@ f:b745ef9f582008c9b8bdb01e012d0b3a:pkgutils/Pkgfile
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:ac044945ebaa0a1a09e6629759dfea96:pkgutils/pkgmk.conf
 f:7b9f1fd4a4aac70a938f10d5eb90c73f:kmod/Pkgfile
-f:20401c8a539f78459f34b3ee36165f3a:openssl/.md5sum
-f:98f68ddeeaf058029e59be69abf1c0b7:openssl/Pkgfile
+f:2d8930a725edb2abca9471eb88f26450:openssl/.md5sum
+f:26f86926bb3b2c01f7815d7d75a6b6d2:openssl/Pkgfile
 f:91f85842d2118003ee465c34259047e6:openssl/mksslcert.sh
-f:60be0130cb39269926c1e12e0350c5ff:openssl/.footprint
+f:642fc88c6efb041384c5297deb2ce5d3:openssl/.footprint
 f:3d91e87717c38dc8b083e060507bfc07:gcc/.md5sum
 f:12768ff22378d76132cb57c20e3c3497:gcc/Pkgfile
 f:a617c4d3fa11e0c9410ac213eb061677:gcc/gcc-nocheck-fixincludes.patch
